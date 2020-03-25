@@ -1,4 +1,4 @@
-# covid19
+# COVID19 MEDICAL SUPPLIES ON DIGITAL FABRICATION
 I'm starting this repository to share faceshields and glasses prototypes i've created for medical professionals, and hope to help anyway. Please feel free to enter and improve my work somehow.
 
 After reading a lot about digital fabrication projects on service to COVID-19 combat, i looked to some open source projects and started to work on them on the Fablab.
