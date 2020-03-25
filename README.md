@@ -13,6 +13,8 @@ I want to thank all the guys that are working on this projects and helping to se
 - 2cm elastic tape
 - white plastic snaps
 
+![GitHub Logo](/images/materials.jpg)
+
 ### Resources used:
 [Open source COVID 19 Medical supplies group](https://www.facebook.com/groups/opensourcecovid19medicalsupplies/)  
 [3d Printing Portugal group](https://www.facebook.com/groups/107115679696679/)  
@@ -34,4 +36,4 @@ I want to thank all the guys that are working on this projects and helping to se
 [Faceshield. lasercut/CNC](https://github.com/CleverLittleMaker/CLMFaceShield)  
 
 Here are some photos of the prototypes:
-
+![GitHub Logo](/images/colagem.jpg)
