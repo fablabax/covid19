@@ -22,6 +22,7 @@ I want to thank all the guys that are working on this projects and helping to se
 [Faceshield. 3dprint](https://3dverkstan.se/protective-visor/?fbclid=IwAR3pWnaccG2qeJ8V0TCAvC0iPXW1zI_34YfW-bbqJiLCFwJHXxGHxOeBTzk)  
 [Faceshield. 3dprint](https://gechev.com/diy/medical-face-shield-3d-model-for-printing/?fbclid=IwAR1QWZKAa8Tts-77X7jq5IR1nJqXrUWG7KGaAN-d_U3g_INJ1gHXaicUi2M)  
 [Faceshield. 3dprint](https://github.com/GliaX/faceshield)  
+[Faceshield. 3dprint](https://www.myminifactory.com/object/3d-print-laser-free-face-shield-face-mask-frame-114656?fbclid=IwAR27ixUcCPsc3PsdGHmqzb6z5PAQs0SxYySLgA1Dxhasj__SOwZd7YGlPLg)  
 [Faceshield. 3dprint in a hat](https://www.brimshield.com/?fbclid=IwAR07FNHmtpXuHV3XgWv2P6uIoIpIV9wx-yv93JNfV5aTid9M6Vt6Vd2mi54)  
 [Faceshield. 3dprint](https://budmen.com/?fbclid=IwAR3g2sLXf67jO4AIUjVrrfJ1evGGpW-mJQtkYk3XzIKq2p4PEtdGUZtEj_E)  
 [Faceshield. lasercut and foam](https://making.engr.wisc.edu/shield/?fbclid=IwAR1pTsgSH2unXtz_WDP_3FA-vObAQB71_mY151KjS8woNtTBtTkxQp8XLpI)  
@@ -31,6 +32,6 @@ I want to thank all the guys that are working on this projects and helping to se
 [Faceshield. lasercut](https://gitlab.com/lucidminds/Openfullfaceshield?fbclid=IwAR07FNHmtpXuHV3XgWv2P6uIoIpIV9wx-yv93JNfV5aTid9M6Vt6Vd2mi54)  
 [Faceshield. lasercut](https://www.delve.com/insights/face-shield-designs-to-fill-the-gap?fbclid=IwAR3pWnaccG2qeJ8V0TCAvC0iPXW1zI_34YfW-bbqJiLCFwJHXxGHxOeBTzk)  
 [Faceshield. lasercut/CNC](https://github.com/CleverLittleMaker/CLMFaceShield)  
-[Go to this page](http://somelink.com/?target=_blank)
 
 Here are some photos of the prototypes:
+
